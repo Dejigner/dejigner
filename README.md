@@ -7,7 +7,7 @@ Electronics & Communication Engineering @ Ain Shams University
 
 I build things at the intersection of hardware and intelligence—where neural networks meet microcontrollers, and AI models run on constrained systems.
 
-Currently exploring **neuromorphic photonics** (because silicon has its limits, and it also seems cool:) ) and working on making AI accessible to the next generation through **LearnSpace**, the educational org I founded. I'm fascinated by the challenge of deploying intelligence at the edge: lightweight models, efficient architectures, and systems that work in the real world—not just on benchmark datasets.
+Currently exploring **neuromorphic photonics** (because silicon has its limits, and it also seems cool:) ) and working on making AI accessible to the next generation through **LearnSpace**, the educational org I co-founded. I'm fascinated by the challenge of deploying intelligence at the edge: lightweight models, efficient architectures, and systems that work in the real world—not just on benchmark datasets.
 
 ## What I'm Working On
 
