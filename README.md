@@ -70,13 +70,9 @@ I'm interested in opportunities in **AI acceleration**, **MLOps**, **edge AI**, 
 **Hardware:** ARM Cortex-M4 • Arduino • AUTOSAR • RTOS
 
 ---
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dejigner&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dejigner&theme=nightowl&hide_border=false&layout=compact)
-
+<img src="https://github-readme-stats.vercel.app/api?username=dejigner&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejigner&theme=nightowl&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 ---
