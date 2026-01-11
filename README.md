@@ -71,10 +71,14 @@ I'm interested in opportunities in **AI acceleration**, **MLOps**, **edge AI**, 
 
 ---
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dejigner&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejigner&theme=nightowl&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dejigner&theme=nightowl&hide_border=false)](https://git.io/streak-stats)
+
+[![Jannah's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dejigner&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dejigner&theme=nightowl&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 ---
 
 *"I was an ordinary person who studied hard." — Richard Feynman*
